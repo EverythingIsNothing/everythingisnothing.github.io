@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Omina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
+    <lastBuildDate>Wed, 19 Aug 2015 20:29:37 -0700</lastBuildDate>
     
 	<atom:link href="https://everythingisnothing.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anime</title>
+      <link>https://everythingisnothing.github.io/categories/anime/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/categories/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moive</title>
+      <link>https://everythingisnothing.github.io/categories/moive/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/categories/moive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>品鉴评论</title>
