@@ -83,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://everythingisnothing.github.io/moment/</loc>
-    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://everythingisnothing.github.io/categories/anime/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
     <priority>0</priority>
@@ -217,6 +212,11 @@
     <loc>https://everythingisnothing.github.io/tags/webpack/</loc>
     <lastmod>2018-11-17T08:07:59+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://everythingisnothing.github.io/moment/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
