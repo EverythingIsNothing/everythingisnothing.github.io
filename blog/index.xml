@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Orianna</title>
+    <title>Blog on Omina</title>
     <link>https://everythingisnothing.github.io/blog/</link>
-    <description>Recent content in Blog on Orianna</description>
+    <description>Recent content in Blog on Omina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Thu, 13 Sep 2018 22:31:21 +0800</lastBuildDate>
     
 	<atom:link href="https://everythingisnothing.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>前端养成记(1) 食用webpack</title>
+      <link>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B01-%E9%A3%9F%E7%94%A8webpack/</link>
+      <pubDate>Sat, 17 Nov 2018 08:07:59 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B01-%E9%A3%9F%E7%94%A8webpack/</guid>
+      <description>预先善其事，必先利其器，webpack是前端利器，学好它，可以在野生状态更好的放养。 安装webpack 首先创建项目目录 mkdir webpack-demo &amp;amp;&amp;amp; cd webpack-demo 初始化配置 npm init -y 安装本项目的webpack 和webpack-cli npm install webpack webpack-cli --save-dev 创建目录结构 webpack-demo |- package.json |- webpack.config.js |- /dist |- index.html |- /src |- index.js 安装插件 html页面插件 npm install html-webpack-plugin --save-dev 将js、css等内嵌网页的插件 npm install html-webpack-inline-source-plugin --save-dev 自动打开游览器的插件 npm install open-browser-webpack-plugin --save-dev 在js文件中引入css的插件 npm install --save-dev style-loader css-loader 配置webpack 在p</description>
+    </item>
     
     <item>
       <title>Blog养成记(14) 让同页滚动更平滑</title>

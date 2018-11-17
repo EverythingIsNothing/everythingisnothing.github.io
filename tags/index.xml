@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Orianna</title>
+    <title>Tags on Omina</title>
     <link>https://everythingisnothing.github.io/tags/</link>
-    <description>Recent content in Tags on Orianna</description>
+    <description>Recent content in Tags on Omina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 18 Aug 2018 20:14:59 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Nov 2018 08:07:59 +0800</lastBuildDate>
     
 	<atom:link href="https://everythingisnothing.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Blog</title>
       <link>https://everythingisnothing.github.io/tags/blog/</link>
-      <pubDate>Sat, 18 Aug 2018 20:14:59 +0800</pubDate>
+      <pubDate>Sat, 17 Nov 2018 08:07:59 +0800</pubDate>
       
       <guid>https://everythingisnothing.github.io/tags/blog/</guid>
       <description></description>
@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>Webpack</title>
+      <link>https://everythingisnothing.github.io/tags/webpack/</link>
+      <pubDate>Sat, 17 Nov 2018 08:07:59 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/tags/webpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>中文</title>
       <link>https://everythingisnothing.github.io/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Sat, 26 May 2018 16:37:59 +0800</pubDate>
@@ -149,7 +158,7 @@
     <item>
       <title>前端</title>
       <link>https://everythingisnothing.github.io/tags/%E5%89%8D%E7%AB%AF/</link>
-      <pubDate>Sat, 18 Aug 2018 20:14:59 +0800</pubDate>
+      <pubDate>Sat, 17 Nov 2018 08:07:59 +0800</pubDate>
       
       <guid>https://everythingisnothing.github.io/tags/%E5%89%8D%E7%AB%AF/</guid>
       <description></description>
