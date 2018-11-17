@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dapp on Omina</title>
+    <link>https://everythingisnothing.github.io/tags/dapp/</link>
+    <description>Recent content in Dapp on Omina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sat, 17 Nov 2018 18:07:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://everythingisnothing.github.io/tags/dapp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DAPP develop edible estimateGas</title>
+      <link>https://everythingisnothing.github.io/blog/2018-11/dapp-develop-edible-estimategas/</link>
+      <pubDate>Sat, 17 Nov 2018 18:07:59 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-11/dapp-develop-edible-estimategas/</guid>
+      <description>我们可使用web3.js调用estimateGas函数获得一个调用智能合约的Gas估计值 ，estimateGas调用将直接在节点的VM中执行，并未在区块链中确认，函数会返回估算使用的gas量 问题 调用智能合约方法gas费给低了报 intrinsic gas too low 给高了也报错 metamask too high for low tansation 有时候还报 gas limit reached 方法 食用web3.eth.estimateGas获取需要的gas web3.eth.estimateGas(callObject [, callback]) 参数 callObject - The transaction object to send: from: String -(optional) 发起交易的账户 to: String - 合约地址 value: Number|String|BigNumber</description>
+    </item>
+    
+  </channel>
+</rss>

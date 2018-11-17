@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://everythingisnothing.github.io/blog/2018-11/dapp-develop-edible-estimategas/</loc>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B01-%E9%A3%9F%E7%94%A8webpack/</loc>
+    <lastmod>2018-11-17T08:07:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B02-%E9%A3%9F%E7%94%A8css3%E5%8A%A8%E7%94%BB/</loc>
     <lastmod>2018-11-17T08:07:59+08:00</lastmod>
   </url>
   
@@ -90,7 +100,7 @@
   
   <url>
     <loc>https://everythingisnothing.github.io/tags/blog/</loc>
-    <lastmod>2018-11-17T08:07:59+08:00</lastmod>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,6 +125,30 @@
   <url>
     <loc>https://everythingisnothing.github.io/tags/css/</loc>
     <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://everythingisnothing.github.io/tags/css3/</loc>
+    <lastmod>2018-11-17T08:07:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://everythingisnothing.github.io/tags/dapp/</loc>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://everythingisnothing.github.io/series/dappdevelop/</loc>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://everythingisnothing.github.io/categories/ddp/</loc>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,7 +214,7 @@
   
   <url>
     <loc>https://everythingisnothing.github.io/</loc>
-    <lastmod>2018-11-17T08:07:59+08:00</lastmod>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,13 +232,19 @@
   
   <url>
     <loc>https://everythingisnothing.github.io/tags/</loc>
-    <lastmod>2018-11-17T08:07:59+08:00</lastmod>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://everythingisnothing.github.io/tags/typora/</loc>
     <lastmod>2018-03-20T16:46:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://everythingisnothing.github.io/tags/web3/</loc>
+    <lastmod>2018-11-17T18:07:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
