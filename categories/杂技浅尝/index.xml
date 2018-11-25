@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>前端试水(1) 前端技术路线</title>
-      <link>https://everythingisnothing.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</link>
-      <pubDate>Wed, 01 Aug 2018 10:23:48 +0800</pubDate>
-      
-      <guid>https://everythingisnothing.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</guid>
-      <description>前言 对于前端的了解欲望实际上是从想对博客主题进行修改开始的。但是前端这部分一直对我来说是个谜，虽然这些名词都能搜索到，但一直傻傻的不得其门而入。总算在一年后的今天，尽管还有很多地方暂时是迷雾状态，但貌似略了解一点前端的整体框架。现在算是开了新的一个系列，在此算是记录一下我了解的前端的技术路线，如果那些和我一样的前端小白们能通过这个也大概了解一点到底现在需要学的、用的是什么，就再好不过了。 对了，先声</description>
-    </item>
-    
-    <item>
       <title>Blog养成记(7) Hugo多级列表无法显示? —— Markdown的bug合集</title>
       <link>https://everythingisnothing.github.io/blog/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B07-hugo%E5%A4%9A%E7%BA%A7%E5%88%97%E8%A1%A8%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA-markdown%E7%9A%84bug%E5%90%88%E9%9B%86/</link>
       <pubDate>Tue, 20 Mar 2018 16:46:17 +0800</pubDate>
@@ -62,21 +53,12 @@
     </item>
     
     <item>
-      <title>Mac小白探索记(2) Finder设置</title>
-      <link>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B02-finder%E8%AE%BE%E7%BD%AE/</link>
-      <pubDate>Tue, 30 Jan 2018 20:21:13 +0800</pubDate>
+      <title>Blog养成记(1) — Markdown常用语法</title>
+      <link>https://everythingisnothing.github.io/blog/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B01-markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 02 Mar 2018 16:46:17 +0800</pubDate>
       
-      <guid>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B02-finder%E8%AE%BE%E7%BD%AE/</guid>
-      <description>Finder是mac的资源管理器，它的使用和配置与Windows区别还是挺多。习惯了Windows的使用使得Finder使用总觉得有些不便。配置好Finder能很大幅度提高我们的工作效率。 我会从遇到的问题着手，查找可以解决问题提高效率的解决方案。 Finder显示设置 显示隐藏文件夹 Mac系统Finder中的 /usr、/etc等文件夹都是隐藏文件，如果不进行设置用户是无法见到的。估计是因为mac用户并</description>
-    </item>
-    
-    <item>
-      <title>Mac小白探索记(1) 基本设置与常用软件</title>
-      <link>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B01-%E5%9F%BA%E6%9C%AC%E8%AE%BE%E7%BD%AE%E4%B8%8E%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</link>
-      <pubDate>Tue, 30 Jan 2018 15:04:48 +0800</pubDate>
-      
-      <guid>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B01-%E5%9F%BA%E6%9C%AC%E8%AE%BE%E7%BD%AE%E4%B8%8E%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</guid>
-      <description>序 原本打算将所有相关内容只写在一篇博文里，但后面发现越加越多，内容越来越零散，最后决定进行拆分，也变为一个系列。我是2017年底才刚开始深入使用mac，算是mac小白一枚，在探索的过程中想将一些我觉得高效实用的信息记录下来，希望其他和我一样刚开始学习mac的小伙伴们能看了后有所帮助。 第一篇主要介绍新入手mac后的基本设置与常用软件安装。终于转到有terminal的电脑上了，既然换了Mac OS，需要</description>
+      <guid>https://everythingisnothing.github.io/blog/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B01-markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</guid>
+      <description>换行 // 链接 [mmark](https://github.com/miekg/mmark) 图片 ![西子飘雪](/images/blog/2018-11/westlake.jpeg) 标题 ## 列表 无序 list-title have a try first second last list-title * have a try * first * second * last * one 有序 list-title have a try first second last First item Second item Third item Fourth item list-title 1. have a try 1. first 2. second 3. last 1. First item 2. Second item 3. Third item 4. Fourth item 列标题需要与列空一行 版本控制 Version Action Time 1.0 Init Q1~Q3 2018-03-02</description>
     </item>
     
   </channel>

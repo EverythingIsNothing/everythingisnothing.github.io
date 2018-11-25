@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编码原则 on Omina</title>
+    <link>https://everythingisnothing.github.io/tags/%E7%BC%96%E7%A0%81%E5%8E%9F%E5%88%99/</link>
+    <description>Recent content in 编码原则 on Omina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Mon, 01 Jan 2018 15:04:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://everythingisnothing.github.io/tags/%E7%BC%96%E7%A0%81%E5%8E%9F%E5%88%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>编码原则</title>
+      <link>https://everythingisnothing.github.io/blog/2018-01/%E7%BC%96%E7%A0%81%E5%8E%9F%E5%88%99/</link>
+      <pubDate>Mon, 01 Jan 2018 15:04:48 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-01/%E7%BC%96%E7%A0%81%E5%8E%9F%E5%88%99/</guid>
+      <description>如何写出可扩展、可维护、可复用的高质量代码一直是我的追求. 可扩展：添加新功能，应对新需求 可维护：修改旧功能，应对需求变化 可复用：新项目开箱即用，封装成组建 单一责任原则 一个变量只表示一个状态 一个函数只做一件事 一个对象只有一个责任 取名要见名知意 使用标准英语，勿食用拼音 尽可能表达用途，而不是实现方式 版本控制 Version Action Time 1.0 Init 2018-01-01</description>
+    </item>
+    
+  </channel>
+</rss>

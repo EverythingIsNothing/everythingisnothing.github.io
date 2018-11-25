@@ -6,10 +6,20 @@
     <description>Recent content on Omina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 17 Nov 2018 18:07:59 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Nov 2018 11:36:37 -0700</lastBuildDate>
     
 	<atom:link href="https://everythingisnothing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Moment Freedom</title>
+      <link>https://everythingisnothing.github.io/moment/index12/</link>
+      <pubDate>Sat, 17 Nov 2018 11:36:37 -0700</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/moment/index12/</guid>
+      <description>Happy moments, choose to walk, watch anime, chase drama, play games, travel, enjoy this moment.
+Anime If you have time, go to the second world, it is a carefree place to escape the real world.</description>
+    </item>
     
     <item>
       <title>DAPP develop edible estimateGas</title>
@@ -21,21 +31,48 @@
     </item>
     
     <item>
-      <title>前端养成记(1) 食用webpack</title>
-      <link>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B01-%E9%A3%9F%E7%94%A8webpack/</link>
+      <title>前端养成记(12) 食用CSS3动画</title>
+      <link>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B012-%E9%A3%9F%E7%94%A8css3%E5%8A%A8%E7%94%BB/</link>
       <pubDate>Sat, 17 Nov 2018 08:07:59 +0800</pubDate>
       
-      <guid>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B01-%E9%A3%9F%E7%94%A8webpack/</guid>
+      <guid>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B012-%E9%A3%9F%E7%94%A8css3%E5%8A%A8%E7%94%BB/</guid>
+      <description>要创建CSS3动画，你将不得不了解@keyframes规则。 @keyframes规则是创建动画。 @keyframes规则内指定一个CSS样式和动画将逐步从目前的样式更改为新的样式。 CSS3 动画 用 @keyframes 创建动画 @keyframes ianimation { 0% {background: red;} 25% {background: yellow;} 50% {background: blue;} 100% {background: green;} } 选择一个元素 div{ width: 500px; height: 800px; border: solid 1px #fff; } 把它绑定到一个选择器 div { animation-name: ianimation;/* 动画的名称 */ animation-duration: 5s;/* 动画完成一个周期所花费的秒或毫秒 */ animation-timing-function: linear;/* 动画的速度 */ animation-delay: 2s;/* 动画何时开始 */ animation-iteration-count: infinite;/* 动画被播放的次数。默认</description>
+    </item>
+    
+    <item>
+      <title>前端养成记(11) 食用webpack</title>
+      <link>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B011-%E9%A3%9F%E7%94%A8webpack/</link>
+      <pubDate>Fri, 16 Nov 2018 08:07:59 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B011-%E9%A3%9F%E7%94%A8webpack/</guid>
       <description>预先善其事，必先利其器，webpack是前端利器，学好它，可以在野生状态更好的放养。 安装webpack 首先创建项目目录 mkdir webpack-demo &amp;amp;&amp;amp; cd webpack-demo 初始化配置 npm init -y 安装本项目的webpack 和webpack-cli npm install webpack webpack-cli --save-dev 创建目录结构 webpack-demo |- package.json |- webpack.config.js |- /dist |- index.html |- /src |- index.js 安装插件 html页面插件 npm install html-webpack-plugin --save-dev 将js、css等内嵌网页的插件 npm install html-webpack-inline-source-plugin --save-dev 自动打开游览器的插件 npm install open-browser-webpack-plugin --save-dev 在js文件中引入css的插件 npm install --save-dev style-loader css-loader 配置webpack 在p</description>
     </item>
     
     <item>
-      <title>前端养成记(2) 食用CSS3动画</title>
-      <link>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B02-%E9%A3%9F%E7%94%A8css3%E5%8A%A8%E7%94%BB/</link>
-      <pubDate>Sat, 17 Nov 2018 08:07:59 +0800</pubDate>
+      <title>前端养成记(10) 食用优秀前端资源</title>
+      <link>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B010-%E9%A3%9F%E7%94%A8%E4%BC%98%E7%A7%80%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Wed, 17 Oct 2018 08:07:59 +0800</pubDate>
       
-      <guid>https://everythingisnothing.github.io/blog/2018-11/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B02-%E9%A3%9F%E7%94%A8css3%E5%8A%A8%E7%94%BB/</guid>
-      <description>要创建CSS3动画，你将不得不了解@keyframes规则。 @keyframes规则是创建动画。 @keyframes规则内指定一个CSS样式和动画将逐步从目前的样式更改为新的样式。 CSS3 动画 用 @keyframes 创建动画 @keyframes ianimation { 0% {background: red;} 25% {background: yellow;} 50% {background: blue;} 100% {background: green;} } 选择一个元素 div{ width: 500px; height: 800px; border: solid 1px #fff; } 把它绑定到一个选择器 div { animation-name: ianimation;/* 动画的名称 */ animation-duration: 5s;/* 动画完成一个周期所花费的秒或毫秒 */ animation-timing-function: linear;/* 动画的速度 */ animation-delay: 2s;/* 动画何时开始 */ animation-iteration-count: infinite;/* 动画被播放的次数。默认</description>
+      <guid>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B010-%E9%A3%9F%E7%94%A8%E4%BC%98%E7%A7%80%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90/</guid>
+      <description>干一件事不一定要亲自动手，要会食用工具。它山之石，可以攻玉。 优秀的前端编辑工具 https://codepen.io/ 优秀的开源代码 https://github.io 优秀的前端特效 https://codepen.io/ 系统学习前端知识 https://www.w3cschool.cn/ 学习CSS布局 http://zh.learnlayout.com/ CSS工程化工具SASS https://sass-lang.com/ JS工程化工具webpack https://webpack.js.org/ 版本控制 Version Action Time 1.0 Init 2018-10-10</description>
+    </item>
+    
+    <item>
+      <title>前端养成记(09) 前端技术路线</title>
+      <link>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B009-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</link>
+      <pubDate>Sat, 06 Oct 2018 10:23:48 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B009-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</guid>
+      <description>如何干好一件事？古语说得好：授之以鱼，不如授之以渔。真正会一件事的标准，我想应该是你可以明明白白讲出来的时候就是你学成下山的时候。 前言 对于前端的了解欲望实际上是从想写个好博客开始的。但是前端这部分一直对我来说是个谜，虽然这些名词都能搜索到，但一直傻傻的不得其门而入。总算在一年后的秋天，尽管还有很多地方暂时是迷雾状态，但貌似略了解一点前端的整体框架。现在算是开了新的一个系列，在此算是记录一下我了解的</description>
+    </item>
+    
+    <item>
+      <title>前端养成记(08) CSS日常</title>
+      <link>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B008-css%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Wed, 03 Oct 2018 10:23:48 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B008-css%E6%97%A5%E5%B8%B8/</guid>
+      <description>CSS定位真难，我是前端小白，元素调半天无法居中，一个元素需要覆盖到另外一个元素上，页面放到手机上，简直无法直视 CSS布局 display:float 元素的位置会朝着设置的方向浮动 display:absolute 元素的位置是相对于已定位的父元素的绝对位置，还需要设置left，right等属性，不占据文档流的空间 display:fixed 元素的位置是相对于已定位的父元素的绝对位置，还需要设置left，right等属性，占据文档流的空间 样式小case CSS如何让一个元素覆盖到另外</description>
     </item>
     
     <item>
@@ -77,15 +114,6 @@
       
       <guid>https://everythingisnothing.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B42-%E4%BD%BF%E7%94%A8docker%E9%95%9C%E5%83%8F%E7%9A%84sass%E9%85%8D%E7%BD%AE/</guid>
       <description>前言 半年前，由于终于将博客主题初版设计出来准备开始实施，在less和sass中纠结良久选择了sass。为了保持环境纯净性，想用docker装sass，用node-sass，试了几次中间都失败，无奈放弃。几乎半年后的今天，莫名又开始有搭建网页的欲望，于是又开始折腾。不过这次运气不错，终于折腾成功。 Sass是什么 Sass 是一个 css的预编译器。它在css语法的基础上，引入了更多的变量、规则等功能，可以帮助c</description>
-    </item>
-    
-    <item>
-      <title>前端试水(1) 前端技术路线</title>
-      <link>https://everythingisnothing.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</link>
-      <pubDate>Wed, 01 Aug 2018 10:23:48 +0800</pubDate>
-      
-      <guid>https://everythingisnothing.github.io/blog/2018-08/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</guid>
-      <description>前言 对于前端的了解欲望实际上是从想对博客主题进行修改开始的。但是前端这部分一直对我来说是个谜，虽然这些名词都能搜索到，但一直傻傻的不得其门而入。总算在一年后的今天，尽管还有很多地方暂时是迷雾状态，但貌似略了解一点前端的整体框架。现在算是开了新的一个系列，在此算是记录一下我了解的前端的技术路线，如果那些和我一样的前端小白们能通过这个也大概了解一点到底现在需要学的、用的是什么，就再好不过了。 对了，先声</description>
     </item>
     
     <item>
@@ -133,21 +161,30 @@
     </item>
     
     <item>
-      <title>Mac小白探索记(2) Finder设置</title>
-      <link>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B02-finder%E8%AE%BE%E7%BD%AE/</link>
-      <pubDate>Tue, 30 Jan 2018 20:21:13 +0800</pubDate>
+      <title>Blog养成记(1) — Markdown常用语法</title>
+      <link>https://everythingisnothing.github.io/blog/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B01-markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 02 Mar 2018 16:46:17 +0800</pubDate>
       
-      <guid>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B02-finder%E8%AE%BE%E7%BD%AE/</guid>
-      <description>Finder是mac的资源管理器，它的使用和配置与Windows区别还是挺多。习惯了Windows的使用使得Finder使用总觉得有些不便。配置好Finder能很大幅度提高我们的工作效率。 我会从遇到的问题着手，查找可以解决问题提高效率的解决方案。 Finder显示设置 显示隐藏文件夹 Mac系统Finder中的 /usr、/etc等文件夹都是隐藏文件，如果不进行设置用户是无法见到的。估计是因为mac用户并</description>
+      <guid>https://everythingisnothing.github.io/blog/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B01-markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</guid>
+      <description>换行 // 链接 [mmark](https://github.com/miekg/mmark) 图片 ![西子飘雪](/images/blog/2018-11/westlake.jpeg) 标题 ## 列表 无序 list-title have a try first second last list-title * have a try * first * second * last * one 有序 list-title have a try first second last First item Second item Third item Fourth item list-title 1. have a try 1. first 2. second 3. last 1. First item 2. Second item 3. Third item 4. Fourth item 列标题需要与列空一行 版本控制 Version Action Time 1.0 Init Q1~Q3 2018-03-02</description>
     </item>
     
     <item>
-      <title>Mac小白探索记(1) 基本设置与常用软件</title>
-      <link>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B01-%E5%9F%BA%E6%9C%AC%E8%AE%BE%E7%BD%AE%E4%B8%8E%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</link>
-      <pubDate>Tue, 30 Jan 2018 15:04:48 +0800</pubDate>
+      <title>编码风格</title>
+      <link>https://everythingisnothing.github.io/blog/2018-02/%E7%BC%96%E7%A0%81%E9%A3%8E%E6%A0%BC/</link>
+      <pubDate>Fri, 02 Feb 2018 20:21:13 +0800</pubDate>
       
-      <guid>https://everythingisnothing.github.io/blog/2018-01/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B01-%E5%9F%BA%E6%9C%AC%E8%AE%BE%E7%BD%AE%E4%B8%8E%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</guid>
-      <description>序 原本打算将所有相关内容只写在一篇博文里，但后面发现越加越多，内容越来越零散，最后决定进行拆分，也变为一个系列。我是2017年底才刚开始深入使用mac，算是mac小白一枚，在探索的过程中想将一些我觉得高效实用的信息记录下来，希望其他和我一样刚开始学习mac的小伙伴们能看了后有所帮助。 第一篇主要介绍新入手mac后的基本设置与常用软件安装。终于转到有terminal的电脑上了，既然换了Mac OS，需要</description>
+      <guid>https://everythingisnothing.github.io/blog/2018-02/%E7%BC%96%E7%A0%81%E9%A3%8E%E6%A0%BC/</guid>
+      <description>如何优雅的写代码，如何将代码变成一种艺术 命名风格统一，使用驼峰命名，或使用下划线，只能选一种风格 版本控制 Version Action Time 1.0 Init 2018-01-01</description>
+    </item>
+    
+    <item>
+      <title>编码原则</title>
+      <link>https://everythingisnothing.github.io/blog/2018-01/%E7%BC%96%E7%A0%81%E5%8E%9F%E5%88%99/</link>
+      <pubDate>Mon, 01 Jan 2018 15:04:48 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-01/%E7%BC%96%E7%A0%81%E5%8E%9F%E5%88%99/</guid>
+      <description>如何写出可扩展、可维护、可复用的高质量代码一直是我的追求. 可扩展：添加新功能，应对新需求 可维护：修改旧功能，应对需求变化 可复用：新项目开箱即用，封装成组建 单一责任原则 一个变量只表示一个状态 一个函数只做一件事 一个对象只有一个责任 取名要见名知意 使用标准英语，勿食用拼音 尽可能表达用途，而不是实现方式 版本控制 Version Action Time 1.0 Init 2018-01-01</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Css on Omina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Mon, 13 Aug 2018 00:14:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 10:23:48 +0800</lastBuildDate>
     
 	<atom:link href="https://everythingisnothing.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>前端养成记(08) CSS日常</title>
+      <link>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B008-css%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Wed, 03 Oct 2018 10:23:48 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-10/%E5%89%8D%E7%AB%AF%E5%85%BB%E6%88%90%E8%AE%B008-css%E6%97%A5%E5%B8%B8/</guid>
+      <description>CSS定位真难，我是前端小白，元素调半天无法居中，一个元素需要覆盖到另外一个元素上，页面放到手机上，简直无法直视 CSS布局 display:float 元素的位置会朝着设置的方向浮动 display:absolute 元素的位置是相对于已定位的父元素的绝对位置，还需要设置left，right等属性，不占据文档流的空间 display:fixed 元素的位置是相对于已定位的父元素的绝对位置，还需要设置left，right等属性，占据文档流的空间 样式小case CSS如何让一个元素覆盖到另外</description>
+    </item>
     
     <item>
       <title>Blog养成记(11) 给网站加个小icon</title>

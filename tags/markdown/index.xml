@@ -20,5 +20,14 @@
       <description>前言 又一次开始折腾Markdown了，不过这一次是因为好好的md文件，在typora中显示的好好的，但在Hugo渲染后格式就不对了，引起我这次探究主要问题在多级列表。考虑到毕竟两个软件的markdown渲染引擎不同，我并没有用到很特别的语法。之前在引用上也碰到了问题，typora中能很好地识别我想要的引用段落，但是Hugo不行。所以这次探究下是哪里出了问题，以及对应的解决方案。 既然已经提到了mar</description>
     </item>
     
+    <item>
+      <title>Blog养成记(1) — Markdown常用语法</title>
+      <link>https://everythingisnothing.github.io/blog/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B01-markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 02 Mar 2018 16:46:17 +0800</pubDate>
+      
+      <guid>https://everythingisnothing.github.io/blog/2018-03/blog%E5%85%BB%E6%88%90%E8%AE%B01-markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</guid>
+      <description>换行 // 链接 [mmark](https://github.com/miekg/mmark) 图片 ![西子飘雪](/images/blog/2018-11/westlake.jpeg) 标题 ## 列表 无序 list-title have a try first second last list-title * have a try * first * second * last * one 有序 list-title have a try first second last First item Second item Third item Fourth item list-title 1. have a try 1. first 2. second 3. last 1. First item 2. Second item 3. Third item 4. Fourth item 列标题需要与列空一行 版本控制 Version Action Time 1.0 Init Q1~Q3 2018-03-02</description>
+    </item>
+    
   </channel>
 </rss>
